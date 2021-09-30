@@ -10,5 +10,9 @@
     {
         "name": "Burger",
         "cuisine": "American"
+    },
+    {
+        "name": "Taco",
+        "cuisine": "Mexican"
     }
 ]
