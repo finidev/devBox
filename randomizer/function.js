@@ -2,5 +2,5 @@ window.function = function (str) {
 
   str = str.value ?? "";
 
-  return str.substring(str);
+  return str.random();
 }
