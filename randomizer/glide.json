@@ -1,1 +1,18 @@
-
+[
+  {
+    "kind": "column",
+    "name": "Randomizer",
+    "description": "Shuffles through an array of names and randomly returns one",
+    "author": "Daniel Canup <daniel@finidev.tech>",
+    "params": [
+      {
+        "name": "string",
+        "displayName": "String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
